@@ -1,0 +1,260 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+    padding: 40px;
+    height: 1vh;
+}
+.wrapper{
+    width: 1200px;
+    height: 1319px;
+    left: 40px;
+    top: 40px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1280px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 0;
+}
+.experions-box{
+    margin: 100px 217px 100px 88px;
+}
+.content-header{
+    margin: 0;
+    padding-top: 79px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+
+}
+.my-name{
+    margin: 0;
+    padding: 18px 0 0 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+.content-inform{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 525px;
+}
+
+.my-content{
+    margin: 50px 217px 100px 88px;
+}
+.my-projects{
+    margin: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.list-projects{
+    margin: 0;
+    padding: 0 0 0 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000; 
+}
+.project-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000; 
+}
+.project-item-link{
+    padding-left: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #005FFF;
+}
+.project-item-span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+
+}
+.expirions{
+    margin: 0;
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.expirions-text{
+    margin: 0;
+    padding: 0 0 0 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959; 
+}
+.data{
+    margin: 0;
+    color: #A8A8A8;
+    line-height: 15px;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.work-education{
+    color: #6D9BF5;
+}
+
+.projects{
+    width: 659px;
+    margin-top: 64px;
+}
+.courses{
+    display: block;
+}
+.block-courses{
+    margin: 0;
+    padding: 0 0 0 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959; 
+}
+
+/* My skills */
+
+
+.sidebar{
+    width: 370px;
+    background: #E0EBFE;
+    margin-left: 40px;
+}
+.sidebar-contacts .sidebar-names{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161D2A;
+}
+
+.sidebar-contacts-list{
+    margin-top: -15px;
+}
+
+
+.img-sidebar{
+    margin-top: 40px;
+}
+
+.my-skills{
+    margin-left: 40px;
+}
+.sidebar-tel {
+    padding: 0;
+    margin: 0;
+}
+.contact-tel{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+
+}
+.contact-email{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
+.tel{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+    margin-left: 8px;
+
+}
+.email{
+    padding: 0;
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2979FF;
+    margin-left: 8px;
+
+}
+.sidebar-linkedIn{
+    margin-top: 0;
+}
+.sidebar-names{
+    margin-top: 47px;
+}
+
+.skills-list{
+    margin-top: -15px;
+    padding: 0 0 0 16px;
+}
+.sidebar-skills{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #6D9BF5; 
+}
+.skills-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
+.soft-skills-box{
+    margin-top: 47px;
+}
+.sidebar-soft-skills{
+    margin-top: -15px;
+    padding: 0 0 0 16px; 
+}
+.soft-skills{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
+.Language-skills-box{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
